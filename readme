@@ -1,6 +1,8 @@
 # SPA Automator
 
+<DESCRIPTION>
 This script automates the process of opening multiple terminals and running specific commands within them, such as starting various microservices or development servers. It's designed to streamline the setup process for development environments.
+</DESCRIPTION>
 
 ## Requirements
 
